@@ -1,0 +1,9 @@
+- Update MaterialApp title to "Static Shopping Page" ✓
+- Update AppBar title to "Static Shopping Page" ✓
+- Replace body with ListView of static product cards (e.g., 4 products: T-Shirt, Jeans, Sneakers, Jacket) ✓
+- Each card includes image, name, price ✓
+- Keep black background and light blue accents ✓
+- Test the app by running it ✓
+- Add "Add to Cart" buttons to each product card ✓
+- Fix image URLs to working placeholders ✓
+- Test the updated app ✓
